@@ -1,7 +1,7 @@
 body {
   margin: 2%;
   border: 1px solid black;
-  background-color: #94dcbb;
+  background-color: #6f9dde;
 }
 
 #image {
@@ -13,7 +13,7 @@ body {
   text-align: center;
   background-color: #d97e45;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #8bdf8e;
   font-family: Arial, sans-serif;
   font-size: 150%;
   background-size: cover;
